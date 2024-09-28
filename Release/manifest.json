@@ -1,7 +1,7 @@
 {
     "name": "Pure_Risk_of_Rain_Returns",
-    "version_number": "1.2.0",
-    "website_url": "https://drive.google.com/file/d/1fFGsvUFvA8SN3oGB8knrwO632XiVZ8En/view?usp=drive_link",
+    "version_number": "1.2.1",
+    "website_url": "https://github.com/stb06/Pure_Risk_of_Rain_Returns",
     "description": "Adds, changes, and removes lots of content to turn RoR2 into RoRR as accurately as possible. Download the zip from the link and follow its instructions to install.",
     "dependencies": [
         "bbepis-BepInExPack-5.4.2117",

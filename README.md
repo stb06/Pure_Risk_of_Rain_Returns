@@ -1,8 +1,8 @@
 # Main Changes
 - Changed music that plays in the menu, on all stages, during teleporter events, and during boss fights.
-- All teleporter events now have 3 possible music tracks.
+- Nearly all teleporter events now have 3 possible music tracks.
 - Nearly all survivors in RoRR are added and all survivors that aren't in RoRR are removed.
-- New skins are added.
+- New skins are added, and any skin that doesn't have a RoRR equivalent is removed.
 - Abilities closest to ones in RoRR are added and nearly all (at some point all) abilities that aren't in RoRR are removed.
 - When playing as Bandit, you can scroll or press F to switch between fire modes.
 - Sprinting is basically removed.
@@ -14,7 +14,7 @@
 - Non-temporary shields gate against HP damage.
 - Some enemies are added and any enemy that isn't in RoRR is removed.
 - Some enemies' abilities are removed.
-- Blighted elites are added and some elites are changed.
+- Blighted elites are added, some elites are changed, and tier 2 elites are removed.
 - Fogbound Lagoon is added, stage order is modified, stages look more like their RoRR equivalent, and any stage other than Bulwark's Ambry that doesn't have a RoRR equivalent is removed.
 # Important Info
 - Please don't update any of the mods if they ask you to. It can mess with the behavior of things, and possibly cause the modpack to break.
@@ -175,6 +175,9 @@ If you're a developer of a mod that can bring this modpack closer to RoRR, pleas
 ## Changelog
 Full changelog in [changelog](https://thunderstore.io/package/stb06/Pure_Risk_of_Rain_Returns/changelog) tab
 
+`1.2.4`
+- Corrected 'Main Changes'.
+
 `1.2.3`
 - Actually shortened text in 'Contact Me'.
 
@@ -327,6 +330,3 @@ Full changelog in [changelog](https://thunderstore.io/package/stb06/Pure_Risk_of
 	- Added to the base game as an umbrella setting.
 - Removed EviscerateFix, ArtificerPrimaryRangeFix, and DoubleTapFix.
 	- Replaced with RiskyFixes.
-
-`1.1.2`
-- Actually fixed typo.

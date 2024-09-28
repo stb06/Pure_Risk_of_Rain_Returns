@@ -1,0 +1,12 @@
+{
+    "name": "Pure_Risk_of_Rain_Returns",
+    "version_number": "1.2.0",
+    "website_url": "https://drive.google.com/file/d/1fFGsvUFvA8SN3oGB8knrwO632XiVZ8En/view?usp=drive_link",
+    "description": "Adds, changes, and removes lots of content to turn RoR2 into RoRR as accurately as possible. Download the zip from the link and follow its instructions to install.",
+    "dependencies": [
+        "bbepis-BepInExPack-5.4.2117",
+        "RiskofThunder-RoR2BepInExPack-1.24.1",
+        "RiskofThunder-FixPluginTypesSerialization-1.0.4",
+        "RiskofThunder-BepInEx_GUI-3.0.3"
+    ]
+}

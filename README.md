@@ -31,7 +31,7 @@
 - If you download the modpack file itself, it will tell you if the modpack has an update in r2modman.
 	- Look for a cloud with an arrow next to Pure_Risk_of_Rain_Returns to see if the modpack has an update (you can move Pure_Risk_of_Rain_Returns just under BepInExPack or click the "update all" button in front of the yellow box to easily see if there's an update). Install the update through the link as usual, and download Pure_Risk_of_Rain_Returns again. Please replace the More_OSTs_Mod folder when you update.
 		- If there isn't an update to the modpack itself, simply update Pure_Risk_of_Rain_Returns.
-- This modpack includes Starstorm2 (best if used with next 3 mods mentioned), Videogame_Mod_2_Unofficial, Survariants, NemesisSkins, ProperSave, DiscordRichPresence, and RealerCheatUnlocks which are off by default.
+- This modpack includes Starstorm2 (best if used with next 4 mods mentioned), Videogame_Mod_2_Unofficial, Survariants, NemesisSkins, NemesisRobomando, ProperSave, DiscordRichPresence, and RealerCheatUnlocks which are off by default.
 	- There may be some items, equipment, and/or survivors that are not unlockable with this modpack, so you may want to enable RealerCheatUnlocks and right click them to unlock them (namely Fireworks, Eccentric Vase, Glowing Meteorite, Acrid, Mercenary, Loader, and Artificer).
 ## Check Out My Other Modpack
 [Vanilla Plus Risk of Rain Returns](https://thunderstore.io/package/stb06/Vanilla_Plus_Risk_of_Rain_Returns)
@@ -49,6 +49,7 @@ If you're a developer of a mod that can bring this modpack closer to RoRR, pleas
 - Not all skills automatically trigger as soon as they are available if the button is held.
 - Proc coefficient isn't completely removed.
 - Passives aren't removed.
+- Huntress's Phase Blink Skill cancels downwards momentum and fall damage.
 - Enforcer's Super Shotgun Skill isn't a Special Skill, isn't 3 forced shots, each coming 0.1 seconds after the other, doesn't pierce, doesn't have a range of 12, and doesn't have a 5-second cooldown.
 - Enforcer's Shield Bash and Shoulder Bash aren't separate Skills and can deflect projectiles; Shield Bash stuns, lunges him forward if moving before use, doesn't always knock enemies far away, doesn't deal 210% damage, and have a 5-second cooldown, and Shoulder Bash doesn't stun, knocks enemies upward instead of pushing them back, isn't a forced 1-second 2x speed dash that deals 5x100% damage, and doesn't have a 10-second cooldown.
 - Enforcer's Stun Grenade doesn't have 4 charges and a reload mechanic, doesn't deal 180% damage, and isn't a Primary Skill.
@@ -174,6 +175,10 @@ If you're a developer of a mod that can bring this modpack closer to RoRR, pleas
 
 ## Changelog
 Full changelog in [changelog](https://thunderstore.io/package/stb06/Pure_Risk_of_Rain_Returns/changelog) tab
+
+`1.2.8`
+- Updated EnemiesReturns to add Ifrit.
+- Added NemesisRobomando.
 
 `1.2.7`
 - Adjusted survivor sort order.

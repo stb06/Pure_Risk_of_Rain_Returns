@@ -178,6 +178,11 @@ If you're a developer of a mod that can bring this modpack closer to RoRR, pleas
 ## Changelog
 Full changelog in [changelog](https://thunderstore.io/package/stb06/Pure_Risk_of_Rain_Returns/changelog) tab
 
+`1.2.12`
+- Added back ArtificerExtended.
+	- I forgot ArtificerExtended allows removing the ENV Suit.
+	- Will break MinerSkillReturns until updated.
+
 `1.2.11`
 - Added to 'Other' section of 'Known Issues'.
 	- Main menu and lobby aren't changed.
@@ -193,10 +198,6 @@ Full changelog in [changelog](https://thunderstore.io/package/stb06/Pure_Risk_of
 - Added to 'Other' section of 'Known Issues'.
 	- Items can be picked up from a distance by manually picking them up.
 - Reverted money earned to vanilla value.
-
-`1.2.9`
-- Updated Starstorm2 and Videogame_Mod_2_Unofficial.
-- Added DynamicJump.
 
 `1.2.0`
 

@@ -1,3 +1,8 @@
+`1.2.12`
+- Added back ArtificerExtended.
+	- I forgot ArtificerExtended allows removing the ENV Suit.
+	- Will break MinerSkillReturns until updated.
+
 `1.2.11`
 - Added to 'Other' section of 'Known Issues'.
 	- Main menu and lobby aren't changed.
